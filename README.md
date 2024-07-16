@@ -14,6 +14,6 @@ Pré-requisitos:
 IDE (Visual Studio Code, Eclipse, etc);
 
 ## Release 1.1
-Correção e conclusão da atividade;
-Implementação da classe ParametrosInvalidosException
-Implementação de documentação Javadoc
+- Correção e conclusão da atividade;
+- Implementação da classe ParametrosInvalidosException
+- Implementação de documentação Javadoc
